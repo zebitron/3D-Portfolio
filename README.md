@@ -1,16 +1,33 @@
-# React + Vite
+1. Vite + React
+Fast project starter with instant hot reload. s
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+2. Tailwind CSS v4
+Utility classes for responsive design without custom CSS files. s
 
-Currently, two official plugins are available:
+3. GSAP + ScrollTrigger
+Professional animations that react to scroll position. s
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+4. React Three Fiber
+React wrapper for Three.js 3D rendering. s
 
-## React Compiler
+5. Drei
+Ready-made 3D helpers (lights, loaders, controls). s
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+6. Lenis
+Smooth scrolling that makes animations buttery. s
 
-## Expanding the ESLint configuration
+7. React Scroll
+Smooth anchor navigation without page jumps. s
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+8. React Responsive
+Media queries as React hooks for desktop/mobile logic. s
+
+9. Iconify React
+Unlimited SVG icons with Tailwind sizing. s
+
+Purpose of Each:
+
+Tailwind: Zero CSS → Design in JSX s
+GSAP: Stagger, timelines, scroll pins s
+Three Fiber: Planet.glb → Interactive 3D s
+Lenis: Default scroll → Cinematic s
